@@ -11,8 +11,8 @@ Um aplicativo simples e funcional de tarefas desenvolvido com React Native utili
   - React Native
   - Expo
   - JavaScript
+  - TypeScript
   - AsyncStorage (armazenamento local)
-  - Estilo customizado com base em tema escuro (tons de preto, cinza e verde)
 
 📦 Download do APK v0.0.2
 
