@@ -1,5 +1,7 @@
 # ✅ To-Do App
 
+<![alt](assets/images/mytodoapp-image.png)>
+
 Um aplicativo simples e funcional de tarefas desenvolvido com React Native utilizando Expo. Para afins de aprendizado das plataformas/frameworks
 
   Adição e exclusão de tarefas
