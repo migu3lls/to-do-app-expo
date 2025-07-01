@@ -24,7 +24,7 @@ Um aplicativo simples e funcional de tarefas desenvolvido com React Native utili
 
 Adições:
 
-- persistência de Dados: I.lementado módulo de armazenamento local para a Memória de Tarefas, garantindo que as tarefas criadas seWn mantidas entre sessões, mesmo após o encerramento do aplicativo.
+- Persistência de Dados: Implementado módulo de armazenamento local para a Memória de Tarefas, garantindo que as tarefas criadas sejam mantidas entre sessões, mesmo após o encerramento do aplicativo.
 - Refinamento Visual e Responsividade: Otimizadas as propriedades de responsividade da interface e aplicadas melhorias no design adaptativo, proporcionando uma experiência de uso mais fluida, intuitiva e compatível com diferentes dispositivos.
 
 Full Changelog: https://github.com/migu3lls/to-do-app-expo/commits/v0.0.2
