@@ -1,7 +1,5 @@
 # ✅ To-Do App
 
-<![alt](assets/images/mytodoapp-image.png)>
-
 Um aplicativo simples e funcional de tarefas desenvolvido com React Native utilizando Expo. Para afins de aprendizado das plataformas/frameworks
 
   Adição e exclusão de tarefas
@@ -27,3 +25,5 @@ Um aplicativo simples e funcional de tarefas desenvolvido com React Native utili
   Integração com Firebase
   Login e autenticação de usuários
   Notificações locais
+
+![image](https://github.com/user-attachments/assets/196f62f9-deb4-4fff-8b48-3205c410c911)
